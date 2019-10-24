@@ -5,6 +5,7 @@ import Header from './App/layout/Header';
 import About from './App/pages/About';
 import AddTodo from './App/AddTodo';
 //import uuid from 'uuid';
+import 'bootstrap/dist/css/bootstrap.css';
 import axios from 'axios';
 
 class App extends React.Component {
